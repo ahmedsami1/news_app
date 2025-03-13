@@ -1,0 +1,2 @@
+D:/projects 2025/news_app/android/app/.cxx/RelWithDebInfo/2i6m3u18/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/projects 2025/news_app/android/app/.cxx/RelWithDebInfo/2i6m3u18/arm64-v8a/CMakeFiles/rebuild_cache.dir
